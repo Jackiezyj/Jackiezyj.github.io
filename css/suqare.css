@@ -1,0 +1,230 @@
+body{
+    width: 1440px;
+    background: #f7f7f5;
+    margin: 0px;
+}
+header{
+    width: 1440px;
+    height: 100px;
+    background-color: black;
+}
+#cont-h{
+    width: 1380px;
+    height: 30px;
+    padding-top:30px
+}
+
+.logoh{
+    width: 144px;
+    height: 30px;
+    float: left;
+    margin-left: 40px;
+}
+.nav{
+    float: right;
+    margin-right: 80px;
+}
+a{
+    text-decoration: none;
+    font-size: 13pt;
+    text-transform: capitalize;
+    font-family: Inter, sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+}
+a:hover{
+    color: whitesmoke;
+}
+.lead{
+    float: left;
+    letter-spacing: .1px;
+    margin-left: 60px;
+    color: white;
+}
+
+.workshow{
+    width: 1060px;
+    height: 490px;
+    margin-left: 185px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    padding: 5px;
+    background-color:  white;
+}
+img{
+    width: 350px;
+    height: 490px;
+}
+
+.intro{
+    width: 1300px;
+    height: 1667px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 60px;
+    background-color:  white;
+}
+.col1{
+    width: 400px;
+    height: 607px;
+    padding: 15px;
+    float: left;
+    margin-top: 130px;
+    margin-left: 60px;
+}
+.card1{
+    width: 400px;
+    height: 525px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+.card1:hover{
+    transform: scale(1.1);
+ }
+.img1-1{
+    width: 400px;
+    height: 300px;
+}
+.card-body1{
+    width: 380px;
+    height:250px;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-left: 20px;
+}
+.col2{
+    width: 350px;
+    height:822px;
+    padding: 15px;
+    float: left;
+    margin-left: 180px;
+}
+.card2{
+    width: 350px;
+    height: 740px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+.card2:hover{
+    transform: scale(1.1);
+ }
+.img1-2{
+    width: 350px;
+    height: 490px;
+}
+.card-body2{
+    width: 330px;
+    height: 300px;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+}
+.col{
+    width: 290px;
+    height: 707px;
+    padding: 15px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.card{
+    width: 290px;
+    height: 625px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+.card:hover{
+    transform: scale(1.1);
+ }
+.img1{
+    width: 290px;
+    height: 400px;
+}
+.card-body{
+    width: 270px;
+    height: 300px;
+    background-color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+}
+.name{
+    font-size: 24px;
+    margin: 7px 0;
+}
+.breintro{
+    color: #6c757d;
+}
+.author{
+    color: #f3ceca;
+    margin-left: 10px;
+}
+.note{
+    color: #6c757d;
+}
+.icon-img{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right:15px;
+    padding-top: 22px;
+}
+.content{
+    width: 220px;
+    height: 30px;
+    margin-bottom: 0;
+    float: left;
+}
+
+.content1{
+    width: 330px;
+    height: 30px;
+    margin-bottom: 0;
+    float: left;
+}
+
+.content2{
+    width: 280px;
+    height: 30px;
+    margin-bottom: 0;
+    float: left;
+}
+.info{
+    width: 1440px;
+    height: 250px;
+    background: black;
+}
+.cont-f{
+    width: 1440px;
+    height: 150px;
+    padding: 50px;
+}
+ul{
+    float: left;
+    list-style: none;   
+    padding-right: 130px;
+}
+li{
+    color: white;
+    margin-bottom: 6px;
+    font-size: 13pt;
+    text-transform: capitalize;
+    font-family: Inter, sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+}
+li:first-child{
+    font-family: Fahkwang, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+.logof{
+    width: 144px;
+    height: 30px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 60px;
+}
